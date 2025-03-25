@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "C:/C++/MSYS2/mingw64/bin/g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "C:/C++/MSYS2/mingw64/include",
+        "C:/C++/MSYS2/mingw64/include/c++/14.2.0",
+        "C:/C++/MSYS2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+        "C:/C++/MSYS2/mingw64/include/c++/v1"
+    ]
+}
