@@ -40,3 +40,6 @@ Compile the code and run it.
 If ye fancy lending a hand, feel free! Just keep in mind, this is still a rough one. No guarantees, no warranties – just vibes.
 
 Sláinte! 🍻
+
+
+чч, будем переписываться на пайтон
